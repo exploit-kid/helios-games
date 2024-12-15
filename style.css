@@ -22,7 +22,7 @@ img {
 .rectangle {
   padding: 4px;
   border-radius: 7px;
-  background-color: #005500;
+  background-color: #00FF00;
   width: fit-content;
   transition: 0.75s;
 }
@@ -34,7 +34,7 @@ img {
 
 .rndrec {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 200px;
   height: 210px;
@@ -46,7 +46,7 @@ img {
 
 .more {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 100px;
   height: 20px;
@@ -57,7 +57,7 @@ img {
 
 .search-input {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 500px;
   height: 20px;
@@ -68,7 +68,7 @@ img {
 
 .search-button {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 100px;
   height: 50px;
@@ -85,7 +85,7 @@ img {
 
 .search {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 1px;
   width: 500px;
   height: 40px;
@@ -96,7 +96,7 @@ img {
 
 .rndrecbutton {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 100px;
   height: 20px;
@@ -104,12 +104,12 @@ img {
   transition: 0.75s;
   display: fit-content;
   outline-style: solid;
-  outline-color: #003300;
+  outline-color: #007700;
 }
 
 .rndrecbutton2 {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 100px;
   height: 20px;
@@ -117,7 +117,7 @@ img {
   transition: 0.75s;
   outline: solid;
   margin: auto;
-  outline-color: #007700;
+  outline-color: #00FF00;
 }
 
 .main {
@@ -145,7 +145,7 @@ img {
 
 .rndrecother {
   border-radius: 25px;
-  background-color: #005500;
+  background-color: #00FF00;
   padding: 15px;
   width: 100px;
   height: 100px;
@@ -156,7 +156,7 @@ img {
 
 .button {
   border-radius: 25px;
-  background-color: #003300;
+  background-color: #00FF00;
   padding: 0px;
   width: 0px;
   height: 0px;
@@ -176,22 +176,22 @@ body {
 }
 
 .rndrec:hover {
-  background-color: #003300;
+  background-color: #00AA00;
   transform: translate(3%, 3%);
 }
 
 .rndrecbutton:hover {
-  background-color: #003300;
+  background-color: #00AA00;
   transform: translate(3%, 3%);
 }
 
 .more:hover {
-  background-color: #003300;
+  background-color: #00AA00;
   transform: translate(3%, 3%);
 }
 
 .rndrecother:hover {
-  background-color: #003300;
+  background-color: #00AA00;
   transform: translate(3%, 3%);
 }
 
@@ -200,7 +200,7 @@ body {
 }
 
 .rndrecbutton2:hover {
-  background-color: #003300;
+  background-color: #00AA00;
 }
 
 a:hover {
